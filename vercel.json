@@ -1,15 +1,1 @@
-{
-  "redirects": [
-    {
-      "source": "/(.*)",
-      "has": [
-        {
-          "type": "host",
-          "value": "www.screentimetimer.co.uk"
-        }
-      ],
-      "destination": "https://screentimetimer.co.uk/$1",
-      "permanent": true
-    }
-  ]
-}
+{}
