@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://screentimetimer.co.uk/sitemap.xml
